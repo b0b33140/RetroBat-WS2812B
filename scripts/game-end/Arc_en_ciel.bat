@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Arduino\hardware\tools\avr/bin/avrdude" "-CC:\Program Files (x86)\Arduino\hardware\tools\avr/etc/avrdude.conf" -v -patmega328p -carduino -PCOM4 -b115200 -D -Uflash:w:C:\Users\Arcade\Documents\Arduino\Programmes_neopixel\Arc_en_ciel/Arc_en_ciel.ino.standard.hex:i
